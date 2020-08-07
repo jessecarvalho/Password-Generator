@@ -19,13 +19,12 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg">
-
-    <div class="collapse navbar-collapse row align-items-center justify-content-center" id="navbarNav">
-        <a class="navbar-brand" href="#">MainCode</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse align-items-center justify-content-center" id="navbarNav">
+        <a class="navbar-brand" href="{{route('home')}}" style="width: 15%"><img src="{{asset('site/img/logo.png')}}" width="100%"></a>
         <ul class="navbar-nav">
             <li class="nav-item active">
                 <a class="nav-link" href="{{route('home')}}">Home <span class="sr-only">(current)</span></a>
@@ -41,13 +40,13 @@
 
 <div class="bottom text-center">
     <h1>Developed by MainCode</h1>
-    <a href="https://pt-br.facebook.com/" class="decoration"><i class="icofont-small icofont-facebook"></i></a>
-    <a href="https://twitter.com/" class="decoration"><i class="icofont-small icofont-twitter"></i></a>
-    <a href="https://www.instagram.com/?hl=pt-br" class="decoration"><i class="icofont-small icofont-instagram"></i></a>
+    <a href="https://pt-br.facebook.com/" class="decoration" target="_blank"><i class="icofont-small icofont-facebook"></i></a>
+    <a href="https://twitter.com/" class="decoration" target="_blank"><i class="icofont-small icofont-twitter"></i></a>
+    <a href="https://www.instagram.com/?hl=pt-br" class="decoration" target="_blank"><i class="icofont-small icofont-instagram"></i></a>
 </div>
 
 <!--JQuery -->
-<script src="{{asset('site/jquery.js')}}"> </script>
+<script src="{{asset('site/jquery.js')}}" > </script>
 <!-- Bootstrap script -->
 <script src="{{asset('site/bootstrap.js')}}"></script>
 <!-- Script -->

@@ -25,6 +25,10 @@
         color: white;
     }
 
+    .icofont-small:hover{
+        color: #ff194e !important;
+    }
+
     .decoration:hover{
         text-decoration: none;
     }
@@ -41,23 +45,21 @@
 /* MAIN */
 
 .menu{
-    margin: 14%;
+    margin: 5%;
 }
 
 .password{
     padding: 2%;
     margin: 1% auto 2% auto;
-    width: 30%;
+    width: 40%;
     border: 1px white solid;
 }
-
-
 
 /* ABOUT */
 
 .about{
     width: 60%;
-    margin: 16% auto;
+    margin: 3% auto;
 }
 
 .about h1{
@@ -67,3 +69,42 @@
 .about h2{
     font-size: 1.5em;
 }
+
+.img-logo{
+    margin: 5%;
+    width: 50%;
+}
+
+#length{
+    text-align: center;
+    border: none;
+    width: 4%;
+    background-color: #545151;
+    color: white;
+}
+
+.btn{
+    margin-bottom: 1%;
+}
+
+/*
+Media query
+*/
+/*Medium devices*/
+@media only screen and (max-width: 960px) {
+
+    .about{
+        width: 90%;
+    }
+
+    .password{
+        width: 75%;
+    }
+
+    #length{
+        width: 12%;
+    }
+}
+
+
+
