@@ -1,8 +1,10 @@
-/*SHARED*/
-    /*FONTS*/
+/*
+**** SHARED FILES
+*/
+    /* FONTS */
     @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
-    /*BODY*/
+    /* BODY */
     body{
         color: white !important;
         background-color: #2a2a2a !important;
@@ -42,7 +44,14 @@
         color: white !important;
     }
 
-/* MAIN */
+    .img-logo{
+        margin: 5%;
+        width: 50%;
+    }
+
+/*
+**** MAIN PAGE
+*/
 
 .menu{
     margin: 5%;
@@ -55,7 +64,21 @@
     border: 1px white solid;
 }
 
-/* ABOUT */
+.btn{
+    margin-bottom: 1%;
+}
+
+#length{
+    text-align: center;
+    border: none;
+    width: 4%;
+    background-color: #545151;
+    color: white;
+}
+
+/*
+**** ABOUT PAGE
+*/
 
 .about{
     width: 60%;
@@ -70,25 +93,8 @@
     font-size: 1.5em;
 }
 
-.img-logo{
-    margin: 5%;
-    width: 50%;
-}
-
-#length{
-    text-align: center;
-    border: none;
-    width: 4%;
-    background-color: #545151;
-    color: white;
-}
-
-.btn{
-    margin-bottom: 1%;
-}
-
 /*
-Media query
+Media query's
 */
 /*Medium devices*/
 @media only screen and (max-width: 960px) {

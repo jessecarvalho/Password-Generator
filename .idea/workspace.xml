@@ -11,15 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89a1f9d2-3722-4ac4-bf8b-a66c91caa340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/site/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Password-Generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Password-Generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/screenshots/Untitled.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/site/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/site/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/site/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/site/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/default/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/default/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/site/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/site/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/site/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/site/js/script.js" afterDir="false" />
     </list>
@@ -171,15 +167,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public\screenshots" />
+      <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public\flaticon" />
+      <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public\icofont" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public\site\img" />
       <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public" />
       <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public\site" />
       <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\resources\views\site\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public\flaticon" />
-      <recent name="C:\Users\FAMILIA\Documents\GitHub\Password-Generator\public\icofont" />
     </key>
   </component>
   <component name="RunManager">
@@ -198,7 +195,7 @@
       <updated>1596638525693</updated>
       <workItem from="1596638526897" duration="8424000" />
       <workItem from="1596720387116" duration="10196000" />
-      <workItem from="1596807816138" duration="1521000" />
+      <workItem from="1596807816138" duration="3539000" />
     </task>
     <servers />
   </component>
